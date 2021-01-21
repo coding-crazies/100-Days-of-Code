@@ -1,43 +1,43 @@
 alphabet = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z', 'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z']
 
-direction = input("Type 'encode' to encrypt, type 'decode' to decrypt:\n")
-text = input("Type your message:\n").lower()
-shift = int(input("Type the shift number:\n"))
-
-#TODO-1: Combine the encrypt() and decrypt() functions into a single function called caesar(). 
-def caesar(to_convert_text,shift_amount,direction):
-  converted_text=""
-  for letter in to_convert_text:
-    position=alphabet.index(letter)
-    if direction=="encode":
+def caesar(start_text, shift_amount, cipher_direction):
+  end_text = ""
+  if cipher_direction == "decode":
+    shift_amount *= -1
+  for char in start_text:
+    #TODO-3: What happens if the user enters a number/symbol/space?
+    #Can you fix the code to keep the number/symbol/space when the text is encoded/decoded?
+    #e.g. start_text = "meet me at 3"
+    #end_text = "•••• •• •• 3"
+    if char in alphabet:
+      position = alphabet.index(char)
       new_position = position + shift_amount
-    elif direction=="decode":
-      new_position = position - shift_amount
+      end_text += alphabet[new_position]
     else:
-      print("Invalid input!")
-    converted_text+=alphabet[new_position]
-  print(f"The {direction}d text is {converted_text}")
+      end_text += char
+    
+  print(f"Here's the {cipher_direction}d result: {end_text}")
 
-# def encrypt(plain_text, shift_amount):
-#   cipher_text = ""
-#   for letter in plain_text:
-#     position = alphabet.index(letter)
-#     new_position = position + shift_amount
-#     cipher_text += alphabet[new_position]
-#   print(f"The encoded text is {cipher_text}")
+#TODO-1: Import and print the logo from art.py when the program starts.
+from art import logo
+print(logo)
+#TODO-4: Can you figure out a way to ask the user if they want to restart the cipher program?
+#e.g. Type 'yes' if you want to go again. Otherwise type 'no'.
+#If they type 'yes' then ask them for the direction/text/shift again and call the caesar() function again?
+#Hint: Try creating a new function that calls itself if they type 'yes'. 
 
-# def decrypt(cipher_text, shift_amount):
-#   plain_text = ""
-#   for letter in cipher_text:
-#     position = alphabet.index(letter)
-#     new_position = position - shift_amount
-#     plain_text += alphabet[new_position]
-#   print(f"The decoded text is {plain_text}")
+flag="yes"
+while flag=="yes":
+  direction = input("Type 'encode' to encrypt, type 'decode' to decrypt:\n")
+  text = input("Type your message:\n").lower()
+  shift = int(input("Type the shift number:\n"))
 
-# if direction == "encode":
-#   encrypt(plain_text=text, shift_amount=shift)
-# elif direction == "decode:
-#   decrypt(cipher_text=text, shift_amount=shift)
+  #TODO-2: What if the user enters a shift that is greater than the number of letters in the alphabet?
+  #Try running the program and entering a shift number of 45.
+  #Hint: Think about how you can use the modulus (%).
 
-#TODO-2: Call the caesar() function, passing over the 'text', 'shift' and 'direction' values.
-caesar(to_convert_text=text,shift_amount=shift,direction=direction)
+  shift%=25
+
+  caesar(start_text=text, shift_amount=shift, cipher_direction=direction)
+
+  flag=input("Type 'yes' if you want to go again, otherwise type 'no':\n")
