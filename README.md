@@ -6,33 +6,47 @@ Using Python as the language.
 <h2>Python Resources</h2>
 <ul>
     <h3>Day 1 - Working with Variables in Python to Manage Data</h3>
-    <li><a href=""></a></li>
+    <li><a href="http://pythontutor.com/">Python Tutor</a></li>
+    <li><a href="https://thonny.org/">Thonny IDE</a></li>
     <h3>Day 2 - Understanding Data Types and How to Manipulate Strings</h3>
-    <li><a href=""></a></li>
+    <li><a href="https://waitbutwhy.com/2014/05/life-weeks.html">Tim Urban's Life in Weeks</a></li>
     <h3>Day 3 - Control Flow and Logical Operators</h3>
-    <li><a href=""></a></li>
+    <li><a href="https://python-reference.readthedocs.io/en/latest/docs/operators/modulus.html">% modulus</a></li>
+    <li><a href="https://ascii.co.uk/art">ASCII ART</a></li>
     <h3>Day 4 - Randomisation and Python Lists</h3>
-    <li><a href=""></a></li>
+    <li><a href="https://www.askpython.com/python-modules/python-random-module-generate-random-numbers-sequences">Python random Module – Generate Random Numbers/Sequences</a></li>
+    <li><a href="https://docs.python.org/3/tutorial/datastructures.html">Python List Docs</a></li>
+    <li><a href="https://www.askpython.com/python/string/python-convert-string-to-list">Python – Convert String to List</a></li>
+    <li><a href="https://www.askpython.com/python-modules/python-random-module-generate-random-numbers-sequences">Python random Module – Generate Random Numbers/Sequences</a></li>
+    <li><a href="https://www.wrpsa.com/">ROCK PAPER SCISSORS</a></li>
     <h3>Day 5 - Python Loops</h3>
-    <li><a href=""></a></li>
+    <li><a href="https://haveibeenpwned.com/">';--have i been pwned?</a></li>
     <h3>Day 6 - Python Functions & Karel</h3>
-    <li><a href=""></a></li>
+    <li><a href="https://docs.python.org/3/library/functions.html">Built-in Functions</a></li>
+    <li><a href="https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Alone&url=worlds%2Ftutorial_en%2Falone.json">Reeborg's World</a></li>
+    <li><a href="https://www.python.org/dev/peps/pep-0008/">PEP 8 -- Style Guide for Python Code</a></li>
     <h3>Day 7 - Hangman</h3>
-    <li><a href=""></a></li>
+    <li><a href="https://hangmanwordgame.com/?fca=1&success=0#/">Play Hangman with Friends</a></li>
+    <li><a href="https://developers.google.com/edu/python/lists#for-and-in">Python List Docs</a></li>
+    <li><a href="https://developers.google.com/edu/python/lists#range">Python Lists and Range</a></li>
+    <li><a href="https://www.askpython.com/python/python-import-statement">Python import Statement</a></li>
     <h3>Day 8 - Function Parameters & Caesar Cipher</h3>
-    <li><a href=""></a></li>
+    <li><a href="https://www.w3schools.com/python/ref_list_index.asp">Python List index() Method</a></li>
     <h3>Day 9 - Dictionaries, Nesting and the Secret Auction</h3>
-    <li><a href=""></a></li>
+    <li><a href="http://www.pythontutor.com/">VISUALIZE CODE EXECUTION</a></li>
     <h3>Day 10 - Function Return Values and the Calculator Project</h3>
-    <li><a href=""></a></li>
+    <li><a href="https://stackoverflow.com/questions/8347048/how-to-convert-string-to-title-case-in-python">How to convert string to Title Case in Python?</a></li>
     <h3>Day 11 - Blackjack Capstone Project</h3>
-    <li><a href=""></a></li>
+    <li><a href="https://games.washingtonpost.com/games/blackjack/">Online Blackjack</a></li>
+    <li><a href="https://developers.google.com/edu/python/lists#list-methods">List Methods</a></li>
     <h3>Day 12 - Scope and Namespacing in Python</h3>
-    <li><a href=""></a></li>
+    <li><a href="http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20">Generate ASCII</a></li>
+    <li><a href="http://www.pythontutor.com/visualize.html#mode=edit">Python Tutor for stepwise running</a></li>
     <h3>Day 13 - Debugging: How to Find and Fix Errors in your Code</h3>
-    <li><a href=""></a></li>
+    <li><a href="http://www.pythontutor.com/visualize.html#mode=edit">Python Tutor for debugging code</a></li>
+    <li><a href="https://stackoverflow.com/questions/tagged/python">StackOverflow - Python</a></li>
     <h3>Day 14 - Higher Lower Game Project</h3>
-    <li><a href=""></a></li>
+    <li><a href="http://www.higherlowergame.com/">Online HigherLower Game</a></li>
     <h3>Day 15 - Local Development Environment Setup & the Coffee Machine Project</h3>
     <li><a href="https://www.python.org/dev/peps/pep-0008/">PEP Python Style Guide</a></li>
     <li><a href="https://www.jetbrains.com/help/pycharm/running-and-debugging-shortcuts.html?keymap=secondary_windows">PyCharm Shortcuts</a></li>
