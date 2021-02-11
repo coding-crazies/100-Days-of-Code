@@ -55,4 +55,6 @@ Using Python as the language.
     <li><a href="https://cs111.wellesley.edu/labs/lab01/colors">Turtle Colors</a></li>
     <li><a href="https://pokemondb.net/pokedex/game/x-y">Pokemon DB</a></li>
     <li><a href="https://pypi.org/">Python Package Index (PyPI)</a></li>
+    <h3>Day 17 - The Quiz Project & the Benefits of OOP</h3>
+    <li><a href="https://opentdb.com/">Open Trivia Database</a></li>
 </ul>
