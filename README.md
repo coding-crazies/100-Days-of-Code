@@ -59,4 +59,5 @@ Using Python as the language.
     <li><a href="https://opentdb.com/">Open Trivia Database</a></li>
     <h3>Day 18 - Turtle Graphics and GUIs</h3>
     <li><a href="https://docs.python.org/3/library/turtle.html">Turtle Graphics</a></li>
+    <li><a href="https://trinket.io/docs/colors">Trinket Turtle Colours</a></li>
 </ul>
