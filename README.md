@@ -57,4 +57,6 @@ Using Python as the language.
     <li><a href="https://pypi.org/">Python Package Index (PyPI)</a></li>
     <h3>Day 17 - The Quiz Project & the Benefits of OOP</h3>
     <li><a href="https://opentdb.com/">Open Trivia Database</a></li>
+    <h3>Day 18 - Turtle Graphics and GUIs</h3>
+    <li><a href="https://docs.python.org/3/library/turtle.html">Turtle Graphics</a></li>
 </ul>
