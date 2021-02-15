@@ -63,4 +63,6 @@ Using Python as the language.
     <li><a href="https://pypi.org/project/colorgram.py/">Colorgram</a></li>
     <h3>Day 19 - Instances, State and Higher Order Functions</h3>
     <li><a href="https://docs.python.org/3/library/turtle.html#turtle.listen">The listen() method</a></li>
+    <h3>Day 20 - Build the Snake Game Part 1: Animation & Coordinates</h3>
+    <li><a href="https://docs.python.org/3.3/library/turtle.html?highlight=turtle#turtle.tracer">The tracer() method</a></li>
 </ul>
