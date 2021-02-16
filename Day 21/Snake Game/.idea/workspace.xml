@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c8a4020b-7d73-435b-85cc-82db8a756b10" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/food.py" beforeDir="false" afterPath="$PROJECT_DIR$/food.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/snake.py" beforeDir="false" afterPath="$PROJECT_DIR$/snake.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +68,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1613460487274</updated>
-      <workItem from="1613460488880" duration="4041000" />
+      <workItem from="1613460488880" duration="4653000" />
     </task>
     <servers />
   </component>
@@ -89,6 +87,6 @@
     </option>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Snake_Game$main.coverage" NAME="main Coverage Results" MODIFIED="1613473031479" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Snake_Game$main.coverage" NAME="main Coverage Results" MODIFIED="1613474271572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
