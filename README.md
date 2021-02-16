@@ -65,4 +65,7 @@ Using Python as the language.
     <li><a href="https://docs.python.org/3/library/turtle.html#turtle.listen">The listen() method</a></li>
     <h3>Day 20 - Build the Snake Game Part 1: Animation & Coordinates</h3>
     <li><a href="https://docs.python.org/3.3/library/turtle.html?highlight=turtle#turtle.tracer">The tracer() method</a></li>
+    <h3>Day 21 - Build the Snake Game Part 2: Inheritance & List Slicing</h3>
+    <li><a href="https://docs.python.org/3/library/turtle.html#turtle.shape">The shape() and shapesize() methods</a></li>
+    <li><a href="https://docs.python.org/3/library/turtle.html#turtle.write ">The write() method</a></li>
 </ul>
