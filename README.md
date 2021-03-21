@@ -76,4 +76,6 @@ Using Python as the language.
     <li><a href="https://www.w3schools.com/python/ref_string_replace.asp">Python String replace() Method</a></li>
     <li><a href="https://www.w3schools.com/python/ref_string_strip.asp">Python String strip() Method</a></li>
     <h3>Day 25 - Working with CSV Data and the Pandas Library</h3>
+    <li><a href="https://pandas.pydata.org/docs/">pandas documentation</a></li>
+    <li><a href="https://pandas.pydata.org/docs/reference/index.html">Pandas API Reference</a></li>
 </ul>
