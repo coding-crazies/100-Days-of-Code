@@ -68,4 +68,11 @@ Using Python as the language.
     <h3>Day 21 - Build the Snake Game Part 2: Inheritance & List Slicing</h3>
     <li><a href="https://docs.python.org/3/library/turtle.html#turtle.shape">The shape() and shapesize() methods</a></li>
     <li><a href="https://docs.python.org/3/library/turtle.html#turtle.write ">The write() method</a></li>
+    <h3>Day 22 - Build Pong: The Famous Arcade Game</h3>
+    <h3>Day 23 - The Turtle Crossing Capstone Project</h3>
+    <h3>Day 24 - Files, Directories and Paths</h3>
+    <li><a href="https://docs.python.org/3/tutorial/inputoutput.html#reading-and-writing-files">The open() method</a></li>
+    <li><a href="https://www.w3schools.com/python/ref_file_readlines.asp">Python File readlines() Method</a></li>
+    <li><a href="https://www.w3schools.com/python/ref_string_replace.asp">Python String replace() Method</a></li>
+    <li><a href="https://www.w3schools.com/python/ref_string_strip.asp">Python String strip() Method</a></li>
 </ul>
