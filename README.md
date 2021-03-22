@@ -78,4 +78,5 @@ Using Python as the language.
     <h3>Day 25 - Working with CSV Data and the Pandas Library</h3>
     <li><a href="https://pandas.pydata.org/docs/">pandas documentation</a></li>
     <li><a href="https://pandas.pydata.org/docs/reference/index.html">Pandas API Reference</a></li>
+    <h3>Day 26 - List Comprehension & the NATO Pilot's Alphabet</h3>
 </ul>
