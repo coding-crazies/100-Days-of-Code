@@ -79,4 +79,8 @@ Using Python as the language.
     <li><a href="https://pandas.pydata.org/docs/">pandas documentation</a></li>
     <li><a href="https://pandas.pydata.org/docs/reference/index.html">Pandas API Reference</a></li>
     <h3>Day 26 - List Comprehension & the NATO Pilot's Alphabet</h3>
+    <h3>Day 28 - Tkinter, Dynamic Typing and the Pomodoro GUI Application</h3>
+    <li><a href="https://docs.python.org/3/library/tkinter.html#the-packer">The Packer</a></li>
+    <li><a href="http://tcl.tk/man/tcl8.6/TkCmd/pack.htm">TCL tk Docs: pack()</a></li>
+    <li><a href="http://tcl.tk/man/tcl8.6/TkCmd/entry.htm">TCL tk Docs: Entry()</a></li>
 </ul>
