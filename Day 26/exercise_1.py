@@ -8,3 +8,4 @@ squared_numbers = [number**2 for number in numbers]
 #Write your code 👆 above:
 
 print(squared_numbers)
+#hi I am a newbie but to understand what does source code do?
